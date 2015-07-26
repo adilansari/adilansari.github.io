@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
+title: Adil Ansari
 locale: en_US
-description: Describe your website here.
+description: My blackbook
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: http://ansari.io
 
 # Jekyll configuration
 
