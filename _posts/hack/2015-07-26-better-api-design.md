@@ -8,6 +8,7 @@ tags: [api, design, rest]
 image:
   feature:
 date: 2015-07-26T23:25:02-07:00
+share: true
 ---
 
 * Table of contents
