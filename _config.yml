@@ -7,6 +7,10 @@ logo: site-logo.png
 search: true
 url: http://ansari.io
 
+# Comments
+comments: true
+share: true
+
 # Jekyll configuration
 
 permalink:   /:categories/:title/
@@ -34,7 +38,7 @@ owner:
   name: Adil Ansari
   avatar: bio-photo.jpg
   email: me@adilansari.com
-  disqus-shortname:
+  disqus-shortname: ansari-io
   twitter: adilansari
   facebook: #username
   github: adilansari
