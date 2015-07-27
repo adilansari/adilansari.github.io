@@ -31,19 +31,19 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Adil Ansari
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: me@adilansari.com
   disqus-shortname:
-  twitter: #username
+  twitter: adilansari
   facebook: #username
-  github: #username
+  github: adilansari
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: adilansari
   instagram: #username
-  flickr: #username
+  flickr: adilansari
   tumblr: #username
-  pinterest: #username
+  pinterest: adilansari
   weibo: #userid
   google:
     plus: #username
