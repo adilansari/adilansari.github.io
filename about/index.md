@@ -1,26 +1,64 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+title: I'd suck at this section
+excerpt: "About Adil Ansari"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: about/arsenal_armory.png
+  credit: Myself
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+I am a half engineered Indian and an online entrepreneur based in beautiful San Francisco.
+Apart from work I've been involved with a couple of startups [@ajastra](http://www.twitter.com/ajastra) and [@minority_app](http://www.twitter.com/minority_app)
 
-## So Simple Theme is all about:
+* Assisted [Ajastra](http://www.ajastra.com), a digital marketing startup, in its early stage.
+* Nurturing my entrepreneurial spirit as I move forward with [Minority Workflow](http://www.minorityapp.com), another pre-seed startup based in Russia.
+* Soccer is another half side of my life, busted my knee twice and now waiting for a total knee reconstruction. A die hard [Gunner](http://www.arsenal.com).
+* Fancy setting up a soccer training academy for kids in India.
+* Recently got my [US Soccer national coaching license F](image). Will have to see how far I go with it.
+* Autos. Currently, a rear wheel driven [Mercedes C230](Pinterest board) and [Yamaha YZF-R6](Pinterest board).
+* Occassional weekend racer doing 230 kmph on 2-wheels.
+* Attracted to the beauty and prowess of chronograph watches.
+* Inspired by business mavericks who think big, who think out of the box, and who don’t stop fighting for it until they get it.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+---
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+## Originals
+
+>Asses work hard, Horses push their efforts occasionally.<br />
+8/8/2009
+
+>Every great success story is unique, yours will be a different too. <br />
+6/9/2009
+
+>If you are the last man 'alive', than its worth dying.<br />
+10/4/2010
+
+>Some things have been identified 'impossible',<br />
+I haven't recognized this term yet. <br />
+17/6/2010
+
+>Girls are either good or very good; <br />
+Boys, bad or very bad but good enough to hide that. <br />
+26/11/2010
+
+>Worried today for a secure tomorrow?<br />
+Cherish this day, tomorrow won't ever come.<br />
+11/1/2011
+
+>Have a mirror, life may turn its back.<br />
+23/5/2011
+
+>Ain't a challenge, if you don't have to hate it; Ain't a man, if you run from it.<br />
+9/10/2011
+
+>Biggest risk in the world is being born, rest everything comes after.<br />
+17/1/2012
+
+>For the day, let's keep it low and classy.<br />
+8/3/2013
+
+>Ya shit if yo shit no hit.<br />
+5/21/2015
 
 [^1]: Example: *domain.com/category-name/post-title*
