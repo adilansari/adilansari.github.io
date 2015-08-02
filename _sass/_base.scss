@@ -161,28 +161,6 @@ figcaption {
 	color: lighten($text-color, 10);
 }
 
-/*
-   Gallery
-   ========================================================================== */
-
-gallery {
-    text-decoration: underline;
-    color: $link-color;
-    &:visited {
-        color: lighten($link-color, 20);
-    }
-    &:hover {
-        color: darken($link-color, 20);
-    }
-    &:focus {
-        outline: thin dotted;
-        color: darken($link-color, 20);
-    }
-    &:hover,
-    &:active {
-        outline: 0;
-    }
-}
 
 
 // Tables
