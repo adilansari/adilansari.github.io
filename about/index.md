@@ -16,7 +16,7 @@ Apart from work I've been involved with a couple of startups [@ajastra](http://w
 * Soccer is another half side of my life, busted my knee twice and now waiting for a total knee reconstruction. A die hard [Gunner](http://www.arsenal.com).
 * Fancy setting up a soccer training academy for kids in India.
 * Recently got my [US Soccer national coaching license F](image). Will have to see how far I go with it.
-* Autos. Currently, a rear wheel driven [Mercedes C230](Pinterest board) and [Yamaha YZF-R6](Pinterest board).
+* Autos. Currently, a rear wheel driven [Mercedes C230](http://farm9.staticflickr.com/8823/17886112075_b2f611776a_h.jpg) and [Yamaha YZF-R6](http://farm4.staticflickr.com/3860/14284097590_89a3cc1fb1_h.jpg).
 * Occassional weekend racer doing 230 kmph on 2-wheels.
 * Attracted to the beauty and prowess of chronograph watches.
 * Inspired by business mavericks who think big, who think out of the box, and who don’t stop fighting for it until they get it.
