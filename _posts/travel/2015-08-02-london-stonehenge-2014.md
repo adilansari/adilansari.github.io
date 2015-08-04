@@ -59,7 +59,7 @@ Owner: "as long as its an *Arsenal* shirt". <br />
 
 <!-- images and t shirt printing video -->
 <figure class="third">
-    <a href="https://www.youtube.com/watch?v=zayyIj3Sde8" title="Getting a personalised shirt" class="popup-youtube"><img src="https://farm1.staticflickr.com/442/19656674524_01470c92a0_m.jpg"></a>
+    <a href="https://www.youtube.com/watch?v=zayyIj3Sde8" title="Getting a personalised shirt" class="popup-youtube"><img src="https://farm1.staticflickr.com/442/19656674524_01470c92a0_z.jpg"></a>
     <a href="https://farm9.staticflickr.com/8852/18113975775_68bab3971f_b.jpg" title="The Armory."><img src="https://farm9.staticflickr.com/8852/18113975775_68bab3971f_m.jpg"></a>
     <a href="https://farm1.staticflickr.com/418/20091225558_5e8a8ddaec_b.jpg" title="Gameday Vendors."><img src="https://farm1.staticflickr.com/418/20091225558_5e8a8ddaec_m.jpg"></a>
     <a href="https://farm1.staticflickr.com/503/20279248175_e17fbb2e65_b.jpg" title="I am game."><img src="https://farm1.staticflickr.com/503/20279248175_e17fbb2e65_m.jpg"></a>
