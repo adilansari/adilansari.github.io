@@ -30,7 +30,7 @@ date: 2015-08-02T02:42:59-07:00
 - Left at 5.30 in morning to evade city traffic and was in Windsor by 7 am for a hot breakfast.
 - Castle Combe was a small but scintillating village.
 - Took countryside route on the way to Stonehenge and my eyes were vitalized by the charm Britain has to offer besides the Victorian cities.
-- <a href="https://www.google.com/maps/embed/v1/directions?origin=San+Francisco+Airport,+San+Francisco,+CA,+United+States&destination=NYC,+NY,+United+States&key=AIzaSyBsp9oYHe38DmRbGTPlYut6eGTb7S51p1I" class="popup-gmaps">Gatwick</a> Drove about 450 km, gripped with fever by evening. Took a few coffee breaks to keep up with myself on the way back.
+- <a href="https://www.google.com/maps/embed/v1/directions?origin=San+Francisco+Airport,+San+Francisco,+CA,+United+States&destination=NYC,+NY,+United+States&key={{ site.owner.google-maps}}" class="popup-gmaps">Gatwick</a> Drove about 450 km, gripped with fever by evening. Took a few coffee breaks to keep up with myself on the way back.
 - Back by night had my usual Lamb shawarma.
 - Ran an errand to a pharmacy at 3 in morning, it was getting unbearable. Next two days I survived on antibiotics.
 
