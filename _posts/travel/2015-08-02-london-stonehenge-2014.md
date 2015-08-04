@@ -6,7 +6,7 @@ categories: travel
 excerpt:
 tags: [arsenal, trip, europe]
 image:
-  feature: travel/arsenal_armory.png
+  feature: travel/tower_bridge.jpg
 date: 2015-08-02T02:42:59-07:00
 ---
 
@@ -30,18 +30,18 @@ date: 2015-08-02T02:42:59-07:00
 - Left at 5.30 in morning to evade city traffic and was in Windsor by 7 am for a hot breakfast.
 - Castle Combe was a small but scintillating village.
 - Took countryside route on the way to Stonehenge and my eyes were vitalized by the charm Britain has to offer besides the Victorian cities.
-- <a href="https://www.google.com/maps/embed/v1/directions?origin=San+Francisco+Airport,+San+Francisco,+CA,+United+States&destination=NYC,+NY,+United+States&key={{ site.owner.google-maps}}" class="popup-gmaps">Gatwick</a> Drove about 450 km, gripped with fever by evening. Took a few coffee breaks to keep up with myself on the way back.
+- <a href="https://www.google.com/maps/embed/v1/directions?origin=London,+United+Kingdom&destination=Castle+Combe,+United+Kingdom&key={{ site.owner.google-maps}}" class="popup-gmaps">Drove about 400 kms</a>, gripped with fever by evening. Took a few coffee breaks to keep up with myself on the way back.
 - Back by night had my usual Lamb shawarma.
 - Ran an errand to a pharmacy at 3 in morning, it was getting unbearable. Next two days I survived on antibiotics.
 
 <figure class="third">
-    <a href="https://farm9.staticflickr.com/8826/18110578002_9f88050325_b.jpg" title="My ride - Turbocharged diesel VW Golf"><img src="https://farm9.staticflickr.com/8826/18110578002_9f88050325_m.jpg"></a>
     <a href="https://farm8.staticflickr.com/7723/17926136478_51d93f09b7_b.jpg" title="Deserted early morning, Windsor."><img src="https://farm8.staticflickr.com/7723/17926136478_51d93f09b7_m.jpg"></a>
     <a href="https://farm9.staticflickr.com/8819/18110595932_1bd451b4fe_b.jpg" title="Windsor Castle long walk"><img src="https://farm9.staticflickr.com/8819/18110595932_1bd451b4fe_m.jpg"></a>
     <a href="https://farm8.staticflickr.com/7724/18110571582_858b5ed249_b.jpg" title="Entering Castle Combe village"><img src="https://farm8.staticflickr.com/7724/18110571582_858b5ed249_m.jpg"></a>
     <a href="https://farm9.staticflickr.com/8788/18115019381_9b855fa28b_b.jpg" title="Castle Combe."><img src="https://farm9.staticflickr.com/8788/18115019381_9b855fa28b_m.jpg"></a>
     <a href="https://farm9.staticflickr.com/8843/18115027331_2b746847e5_b.jpg" title="Canal by the village."><img src="https://farm9.staticflickr.com/8843/18115027331_2b746847e5_m.jpg"></a>
     <a href="https://farm8.staticflickr.com/7791/17493448933_22267369a0_b.jpg" title="Median of the village."><img src="https://farm8.staticflickr.com/7791/17493448933_22267369a0_m.jpg"></a>
+    <a href="https://farm1.staticflickr.com/333/20279190475_0b25c4a75e_b.jpg" title="My ride - Turbocharged diesel VW Golf"><img src="https://farm1.staticflickr.com/333/20279190475_0b25c4a75e_m.jpg"></a>
     <a href="https://farm8.staticflickr.com/7679/18115048621_5a34f9b948_b.jpg" title="More Castle Combe."><img src="https://farm8.staticflickr.com/7679/18115048621_5a34f9b948_m.jpg"></a>
     <a href="https://farm9.staticflickr.com/8858/18088834629_f879467bb1_b.jpg" title="Stonehenge."><img src="https://farm9.staticflickr.com/8858/18088834629_f879467bb1_m.jpg"></a>
 </figure>
@@ -58,13 +58,28 @@ Owner: "as long as its an *Arsenal* shirt". <br />
 - Tony hooked me up with tickets as I wanted to avoid membership hustle. There are twitter handles that can hook you up with season ticket-holders/spare tickets.
 
 <!-- images and t shirt printing video -->
+<figure class="third">
+    <a href="https://www.youtube.com/watch?v=zayyIj3Sde8" title="Getting a personalised shirt" class="popup-youtube"><img src="https://farm1.staticflickr.com/442/19656674524_01470c92a0_m.jpg"></a>
+    <a href="https://farm9.staticflickr.com/8852/18113975775_68bab3971f_b.jpg" title="The Armory."><img src="https://farm9.staticflickr.com/8852/18113975775_68bab3971f_m.jpg"></a>
+    <a href="https://farm1.staticflickr.com/418/20091225558_5e8a8ddaec_b.jpg" title="Gameday Vendors."><img src="https://farm1.staticflickr.com/418/20091225558_5e8a8ddaec_m.jpg"></a>
+    <a href="https://farm1.staticflickr.com/503/20279248175_e17fbb2e65_b.jpg" title="I am game."><img src="https://farm1.staticflickr.com/503/20279248175_e17fbb2e65_m.jpg"></a>
+    <a href="https://farm1.staticflickr.com/488/20279256695_b2020321f5_b.jpg" title="This is epic."><img src="https://farm1.staticflickr.com/488/20279256695_b2020321f5_m.jpg"></a>
+</figure>
 
-## Nighlife (D4)
+## Nightlife (D4)
 - Did go out to Camden Lock (London's palika bazaar), nothing new to me.
 - Walked through the Soho district's fashion/shopping street, the heart of London. Didn't shop much everything was high end designer stuff.
 - I always reach out to locals for nightlife advice, Liecester Square it came out to be.
 - Soho has pretty good upscale clubs. Liecester Square is a mix where locals go out with some urban lounges.
 - I chose Koko, Penthouse and Tiger Tiger.
+
+<figure class="third">
+    <a href="https://farm9.staticflickr.com/8888/17926357818_c2a638dd63_b.jpg" title="Bond Street."><img src="https://farm9.staticflickr.com/8888/17926357818_c2a638dd63_m.jpg"></a>
+    <a href="https://farm9.staticflickr.com/8758/18114261965_e5a70262b9_b.jpg" title="Palika :P."><img src="https://farm9.staticflickr.com/8758/18114261965_e5a70262b9_m.jpg"></a>
+    <a href="https://farm9.staticflickr.com/8787/18114267635_81cdf32d1d_b.jpg" title="Soho @ Piccadilly circus."><img src="https://farm9.staticflickr.com/8787/18114267635_81cdf32d1d_m.jpg"></a>
+    <a href="https://farm8.staticflickr.com/7730/17491641734_e193ec8929_b.jpg" title="Trafalgar Square."><img src="https://farm8.staticflickr.com/7730/17491641734_e193ec8929_m.jpg"></a>
+    <a href="https://farm9.staticflickr.com/8769/17493368783_118e2b30a2_b.jpg" title="I don't remember, let's skip this."><img src="https://farm9.staticflickr.com/8769/17493368783_118e2b30a2_m.jpg"></a>
+</figure>
 
 ## Greenwich (D5)
 - Explored Southwark neighborhood and Wembley area.
@@ -72,6 +87,23 @@ Owner: "as long as its an *Arsenal* shirt". <br />
 - Explored some more suburban/dock areas on eastern part of the city.
 - Night photography around Westminster.
 
+<figure class="third">
+    <a href="https://farm8.staticflickr.com/7795/18087182758_e47abafba1_b.jpg" title="Cityscape 1."><img src="https://farm8.staticflickr.com/7795/18087182758_e47abafba1_m.jpg"></a>
+    <a href="https://farm8.staticflickr.com/7728/18248583826_cd4a154189_b.jpg" title="Cityscape 2."><img src="https://farm8.staticflickr.com/7728/18248583826_cd4a154189_m.jpg"></a>
+    <a href="https://farm9.staticflickr.com/8847/17654384413_895913db91_b.jpg" title="Across Tate Modern/Shard."><img src="https://farm9.staticflickr.com/8847/17654384413_895913db91_m.jpg"></a>
+    <a href="https://farm9.staticflickr.com/8770/17491648104_9dce971792_b.jpg" title="Prime Meridian."><img src="https://farm9.staticflickr.com/8770/17491648104_9dce971792_m.jpg"></a>
+    <a href="https://farm9.staticflickr.com/8839/18087302790_75ea804a64_b.jpg" title="St. Paul's Cathedral."><img src="https://farm9.staticflickr.com/8839/18087302790_75ea804a64_m.jpg"></a>
+    <a href="https://farm8.staticflickr.com/7766/18276352301_50c8ca8492_b.jpg" title="Big Ben."><img src="https://farm8.staticflickr.com/7766/18276352301_50c8ca8492_m.jpg"></a>
+    <a href="https://farm9.staticflickr.com/8888/18248529236_949dfc061d_b.jpg" title="London Eye."><img src="https://farm9.staticflickr.com/8888/18248529236_949dfc061d_m.jpg"></a>
+</figure>
+
 ## Departure (D6)
 - Leaving this beautiful city but going to India. It was a mixed feeling.
 - I've lived in NY, SF, LA, Delhi, Mumbai and some more metros but this one is my favorite for the cultural vibrance.
+
+<figure>
+    <a href="https://farm9.staticflickr.com/8893/17926595530_42ee9e10f1_b.jpg" title="From the Shard."><img src="https://farm9.staticflickr.com/8893/17926595530_42ee9e10f1_c.jpg"></a>
+</figure>
+<figcaption>
+    <center>Timed from 72nd floor</center>
+</figcaption>
