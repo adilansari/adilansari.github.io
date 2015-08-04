@@ -55,4 +55,5 @@ owner:
     verify:
     ad-client:
     ad-slot:
-  bing-verify:
+  bing-verify: # verify
+  google-maps: AIzaSyBsp9oYHe38DmRbGTPlYut6eGTb7S51p1I
