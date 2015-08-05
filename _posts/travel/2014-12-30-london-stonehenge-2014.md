@@ -7,7 +7,7 @@ excerpt:
 tags: [arsenal, trip, europe]
 image:
   feature: travel/tower_bridge.jpg
-date: 2015-08-02T02:42:59-07:00
+date: 2014-12-30T02:42:59-07:00
 ---
 
 ## Here we go (D1)
