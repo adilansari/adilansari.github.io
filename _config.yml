@@ -19,7 +19,7 @@ highlighter: pygments
 sass:
   sass_dir: _sass
   style: compressed
-gems: ["jekyll-sitemap", "emoji_for_jekyll"]
+gems: ["jekyll-sitemap", "jemoji"]
 
 kramdown:
   auto_ids: true
