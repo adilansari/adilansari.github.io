@@ -3,7 +3,7 @@ layout: post
 title: "2014 Christmas in London"
 modified:
 categories: travel
-excerpt:
+excerpt: A visit to Arsenal
 tags: [arsenal, trip, europe]
 image:
   feature: travel/tower_bridge.jpg
