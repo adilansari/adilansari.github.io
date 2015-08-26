@@ -20,7 +20,7 @@ date: 2014-12-30T02:42:59-07:00
 <figure class="third">
     <a href="https://farm9.staticflickr.com/8838/18088875139_07f466b261_b.jpg" title="Next to tower"><img src="https://farm9.staticflickr.com/8838/18088875139_07f466b261_m.jpg"></a>
     <a href="https://farm9.staticflickr.com/8789/18248611296_4e2096f9de_b.jpg" title="Tunnel"><img src="https://farm9.staticflickr.com/8789/18248611296_4e2096f9de_m.jpg"></a>
-    <a href="https://farm8.staticflickr.com/7706/18115104151_2b7f3cd1f5_b.jpg" title="<h3>Walking thames-side</h3>"><img src="https://farm8.staticflickr.com/7706/18115104151_2b7f3cd1f5_m.jpg"></a>
+    <a href="https://farm8.staticflickr.com/7706/18115104151_2b7f3cd1f5_b.jpg" title="Walking thames-side"><img src="https://farm8.staticflickr.com/7706/18115104151_2b7f3cd1f5_m.jpg"></a>
 </figure>
 
 ## Stonehenge (D2)
