@@ -88,26 +88,40 @@ date: 2015-08-09T22:09:27-07:00
 - Had a chance to meet [Aleix Espargaro](https://twitter.com/AleixEspargaro), no one knew him so I just reached out.
 - Off to stands for race, and penthouse seats didn't disappoint me.
 
-<!-- inset pano  -->
+<figure align="center">
+    <a href="https://farm1.staticflickr.com/745/20650175118_4a2b6063ca_b.jpg" title="Pano from penthouse box"><img src="https://farm1.staticflickr.com/745/20650175118_4a2b6063ca_n.jpg"></a>
+</figure>
 
-- Rossi managed a hard fought 3rd, but disappointed for Lorenzo.
+- Rossi managed a hard fought 3rd, but disappointed for [Lorenzo](https://twitter.com/lorenzo99).
 - Raced to the pits again post celebration.
-- Bradley Smith and Aleix Espargaro were the first ones to come out and raced to the offices.
+- [Bradley Smith](https://twitter.com/BradleySmith38) and [Aleix Espargaro](https://twitter.com/AleixEspargaro) were the first ones to exit pits.
 - Not many people knew other racers except VR\|46. Another reason why his garage was swamped with fans and other riders left unnoticed.
-- Photobombing Daniel Petrucci and Yossi Hernandez.
-- There goes Dani Pedrosa, such a short guy.
+- Photobombing [Danilo Petrucci](https://twitter.com/Petrux9) and [Yonny Hernandez](https://twitter.com/Yonny68).
+- There goes [Dani Pedrosa](https://twitter.com/26_DaniPedrosa), such a short guy.
 - In fact, all these riders were short and lightweight, totally made sense as it helps easy maneuverability and shift of bike weight.
-- Andrea Doviozoso, the Ducati rider was having a banter with reporters when I approached him.
-- There comes the today's champion Marc Marquez, undefeated for Indianapolis five times in a row.
+- [Andrea Iannone](https://twitter.com/andreaiannone29), the Ducati rider was having a banter with reporters when I approached him.
+- There comes the today's champion [Marc Marquez](https://twitter.com/marcmarquez93), undefeated at Indianapolis five times in a row.
+
+<figure class="third">
+    <a href="https://farm1.staticflickr.com/708/20651431279_de2ea13520_b.jpg" title="Bradley Smith"><img src="https://farm1.staticflickr.com/708/20651431279_de2ea13520_m.jpg"></a>
+    <a href="https://farm1.staticflickr.com/605/20650169088_7e01316fa6_b.jpg" title="Aleix Espargaro"><img src="https://farm1.staticflickr.com/605/20650169088_7e01316fa6_m.jpg"></a>
+    <a href="https://farm6.staticflickr.com/5813/20828616922_ec372f2ddc_b.jpg" title="Danilo Petrucci"><img src="https://farm6.staticflickr.com/5813/20828616922_ec372f2ddc_m.jpg"></a>
+    <a href="https://farm6.staticflickr.com/5771/20650107680_5e5e821f2f_b.jpg" title="Yonny Hernandez"><img src="https://farm6.staticflickr.com/5771/20650107680_5e5e821f2f_m.jpg"></a>
+    <a href="https://farm6.staticflickr.com/5669/20651422819_637058dd13_b.jpg" title="Jorge Lorenzo"><img src="https://farm6.staticflickr.com/5669/20651422819_637058dd13_m.jpg"></a>
+    <a href="https://farm6.staticflickr.com/5678/20217171623_99513b4676_b.jpg" title="Dani Pedrosa"><img src="https://farm6.staticflickr.com/5678/20217171623_99513b4676_m.jpg"></a>
+    <a href="https://farm1.staticflickr.com/678/20651420739_4935c04628_b.jpg" title="Andrea Iannone"><img src="https://farm1.staticflickr.com/678/20651420739_4935c04628_m.jpg"></a>
+    <a href="https://farm1.staticflickr.com/586/20838156455_4431de0bb1_b.jpg" title="Marc Marquez"><img src="https://farm1.staticflickr.com/586/20838156455_4431de0bb1_m.jpg"></a>
+    <a href="https://farm1.staticflickr.com/669/20845274481_7625c7a4a7_b.jpg" title="Marquez's winning Honda"><img src="https://farm1.staticflickr.com/669/20845274481_7625c7a4a7_m.jpg"></a>
+</figure>
+
 - A dozen fans surrounded him but not bad, worth waiting 2 hours.
 - Most of the teams packed up their stuff, this was the winning bike from today going home.
 - Saw Dani Pedrosa leaving in his rental cruze.
-
 - Drove back to Chicago but the freeway was closed so had to detour for 70 miles through farmlands.
 
-## Rating pitgirls
-- Tech3 yamaha
-- Suzuki
-- Avianta
-- Ducati
-- Movistar
+#### Pitgirls
+<figure class="third">
+    <a href="https://farm6.staticflickr.com/5635/20217216073_110a670562_b.jpg" title="Tech3 Yamaha"><img src="https://farm6.staticflickr.com/5635/20217216073_110a670562_m.jpg"></a>
+    <a href="https://farm6.staticflickr.com/5825/20215534834_779fe15ec9_b.jpg" title="Avintia Racing, though a small team but now hold a special place in my heart"><img src="https://farm6.staticflickr.com/5825/20215534834_779fe15ec9_m.jpg"></a>
+    <a href="https://farm6.staticflickr.com/5750/20828627152_baf463b0ff_b.jpg" title="Suzuki"><img src="https://farm6.staticflickr.com/5750/20828627152_baf463b0ff_m.jpg"></a>
+</figure>
