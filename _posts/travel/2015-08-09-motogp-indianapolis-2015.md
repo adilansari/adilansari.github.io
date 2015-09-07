@@ -7,6 +7,7 @@ excerpt: A VIP experience in MotoGP paddocks.
 tags: [bikes, racing, trip]
 image:
   feature: travel/moto_gp.jpg
+  credit: Myself
 date: 2015-08-09T22:09:27-07:00
 ---
 

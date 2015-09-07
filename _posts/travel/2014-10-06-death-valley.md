@@ -6,6 +6,7 @@ excerpt: Lowest, driest, and hottest area in North America.
 tags: [trip, nature, park, photography]
 image:
   feature: travel/death_valley.jpg
+  credit: Myself
 date: 2014-10-06T05:12:51-07:00
 ---
 
