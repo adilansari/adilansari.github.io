@@ -4,7 +4,7 @@ title: "2014 Christmas in London"
 modified:
 categories: travel
 excerpt: A visit to Arsenal
-tags: [arsenal, trip, europe]
+tags: [arsenal, trip, europe, photography]
 image:
   feature: travel/tower_bridge.jpg
 date: 2014-12-30T02:42:59-07:00
