@@ -7,6 +7,7 @@ $alt-font: 'volkhov', serif;
 
 $doc-font-size: 15;
 $doc-line-height: 24;
+$notice-font-size: 14;
 
 $border-radius: 3px;
 
@@ -27,7 +28,14 @@ $border-color       : #ddd;
 $white              : #fff;
 $black              : #000;
 $accent-color       : $black;
-$link-color         : #222;
+$link-color         : #2980b9;
+
+$gray                       : #7a8288;
+$light-gray                 : mix(#fff, $gray, 50%);
+$success-color              : #62c462;
+$warning-color              : #f89406;
+$danger-color               : #ee5f5b;
+$info-color                 : #52adc8;
 
 $table-border-color           : $border-color;
 $table-border                 : 1px solid $table-border-color;
