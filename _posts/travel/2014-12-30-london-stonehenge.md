@@ -54,7 +54,7 @@ date: 2014-12-30T02:42:59-07:00
 > Guy: "Can you print on all shirts",<br />
 Owner: "as long as its an *Arsenal* shirt". <br />
 :smiling_imp: :facepunch: :clap:
-{: .notice }
+{: .notice--primary }
 
 - Tony hooked me up with tickets as I wanted to avoid membership hustle. There are twitter handles that can hook you up with season ticket-holders/spare tickets.
 
