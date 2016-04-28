@@ -7,6 +7,7 @@ $alt-font: 'volkhov', serif;
 
 $doc-font-size: 15;
 $doc-line-height: 24;
+$notice-font-size: 14;
 
 $border-radius: 3px;
 
@@ -29,6 +30,8 @@ $black              : #000;
 $accent-color       : $black;
 $link-color         : #222;
 
+$gray                       : #7a8288;
+$light-gray                 : mix(#fff, $gray, 50%);
 $primary-color              : #7a8288;
 $success-color              : #62c462;
 $warning-color              : #f89406;
