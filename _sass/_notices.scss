@@ -14,7 +14,8 @@
   margin: 2em 0 !important;  // override
   padding: 1em;
   font-family: $base-font;
-  font-size: $notice-font-size !important;
+  font-size: 1em !important;
+  font-style: italic;
   text-indent: initial; // override
   background-color: mix(#fff, $notice-color, 90%);
   border-radius: $border-radius;
