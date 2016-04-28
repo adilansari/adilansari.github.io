@@ -41,14 +41,15 @@ db.comments.find().skip(pagesize * (n-1)).limit(pagesize);
 This is native to MongoDB however, this approach has a __<font color="red">drawback</font>__ as [MongoDB manual](https://docs.mongodb.org/manual/reference/method/cursor.skip/) states:
 
 > The cursor.skip() method is often expensive because it requires the server to walk from the beginning of the collection or index to get the offset or skip position before beginning to return results. As the offset (e.g. pageNumber above) increases, cursor.skip() will become slower and more CPU intensive. With larger collections, cursor.skip() may become IO bound.
+{: .notice--danger}
 
 ## 2: Using natural ordering to skip data
-This approach uses the [ObjectId](https://docs.mongodb.org/manual/reference/method/ObjectId/). What is an ObjectId? A __12-byte__ ObjectId value is composed of:
+This approach uses the [ObjectId](https://docs.mongodb.org/manual/reference/method/ObjectId/){: .btn .btn--info}. A __12-byte__ ObjectId value is:
 {% raw %}
-- a 4-byte value representing the seconds since the Unix epoch,
-- a 3-byte machine identifier,
-- a 2-byte process id, and
-- a 3-byte counter, starting with a random value.
+- 4-byte representing the seconds since the Unix epoch,
+- 3-byte machine identifier,
+- 2-byte process id, and
+- 3-byte counter, starting with a random value.
 {% endraw %}
 
 The **_id** field in your mongo document is an indexed __ObjectId__ by default, and the timestamp component brings a natural chronological ordering to your data structure. Here's what we will do:
@@ -67,9 +68,14 @@ last_comment_id = ...
 {% endraw %}
 {% endhighlight %}
 
-#### Comparison
-1. **skip()** - Walks over each document from beginning of collection to offset. **Bid O(n)**.
-2. **find({_id: ..})** - Since, the **_id** field is indexed by default, this is prety fast in getting to the offset. **Big O(log n)**
+If you are using a field other than **_id** for offset, make sure the field is indexed else the performance will suffer.
+{: .notice--warning}
 
-{: .notice--danger}
-_If you are using a field other than **_id** for offset, make sure the field is indexed else the performance will suffer._
+## Comparison
+
+| Method                                                | Runtime                              | Description                                          |
+|:-----------------------------------------------------:|:------------------------------------:|:-----------------------------------------------------|
+| [`skip()`](#){: .btn .btn--info .btn--small}          | [O (n)](#){: .btn .btn--warning}     | walks over each document from beginning until offset |
+| [`find({_id: ..})`](#){: .btn .btn--info .btn--small} | [O (log n)](#){: .btn .btn--success} | Binary search on the indexed field                   |
+{: .table}
+
