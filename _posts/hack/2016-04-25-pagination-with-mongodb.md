@@ -71,7 +71,11 @@ last_comment_id = ...
 If you are using a field other than **_id** for offset, make sure the field is indexed else the performance will suffer.
 {: .notice--warning}
 
-## Comparison
+
+---
+
+## Winner? Not really
+{: .center}
 
 | Method                                                | Runtime                              | Description                                          |
 |:-----------------------------------------------------:|:------------------------------------:|:-----------------------------------------------------|
@@ -79,3 +83,6 @@ If you are using a field other than **_id** for offset, make sure the field is i
 | [`find({_id: ..})`](#){: .btn .btn--info .btn--small} | [O (log n)](#){: .btn .btn--success} | Binary search on the indexed field                   |
 {: .table}
 
+Now the second approach using `find()` also comes in handy when you want to enforce some kind of ordering on your data subset. `find().sort()` will be faster than `skip().sort()` considering you use in on an efficient index.
+
+**timestamp** may not work for you, choosing the right granular key is the hero here. So what is the best key? Would be hard for me to answer here but a couple things to keep in mind - _uniqueness_ and _ordering_.
