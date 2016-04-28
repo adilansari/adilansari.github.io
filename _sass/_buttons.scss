@@ -96,6 +96,24 @@
       background-color: mix(#000, $danger-color, 20%);
     }
   }
+
+  /* extra large button */
+
+  &--x-large {
+    font-size: 1.375em;
+  }
+
+  /* large button */
+
+  &--large {
+    font-size: 1.25em;
+  }
+
+  /* small button */
+
+  &--small {
+    font-size: 0.75em;
+  }
 }
 
 /*
