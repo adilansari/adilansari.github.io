@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Buttons
+   BUTTONS
    ========================================================================== */
 
 /*
@@ -7,20 +7,94 @@
    ========================================================================== */
 
 .btn {
+  /* default button */
   display: inline-block;
-  margin-bottom: 20px;
-  padding: 8px 20px;
-  @include font-size(14);
+  margin-bottom: 0.25em;
+  padding: 0.1em 0.25em;
+  color: #fff !important;
+  font-size: 1em;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
   background-color: $black;
-  color: $white;
-  border: 2px solid $black !important;
+  border: 0 !important;
   border-radius: $border-radius;
-  &:visited {
-    color: $white;
-  }
+  cursor: pointer;
+
   &:hover {
-    background-color: $white;
-    color: $black;
+    background-color: mix(white, #000, 20%);
+  }
+
+  .icon {
+    margin-right: 0.5em;
+  }
+
+  .icon + .hidden {
+    margin-left: -0.5em; // override for hidden text
+  }
+
+  /* fills width of parent container */
+
+  &--block {
+    display: block;
+    width: 100%;
+
+    + .btn--block {
+      margin-top: 0.25em;
+    }
+  }
+
+  /* for dark backgrounds */
+
+  &--inverse {
+    color: $gray !important;
+    border: 1px solid $light-gray !important; // override
+    background-color: #fff;
+
+    &:hover {
+      color: #fff !important;
+      border-color: $gray;
+    }
+  }
+
+  /* information */
+
+  &--info {
+    background-color: $info-color;
+
+    &:hover {
+      background-color: mix(#000, $info-color, 20%);
+    }
+  }
+
+  /* warning */
+
+  &--warning {
+    background-color: $warning-color;
+
+    &:hover {
+      background-color: mix(#000, $warning-color, 20%);
+    }
+  }
+
+  /* success */
+
+  &--success {
+    background-color: $success-color;
+
+    &:hover {
+      background-color: mix(#000, $success-color, 20%);
+    }
+  }
+
+  /* danger */
+
+  &--danger {
+    background-color: $danger-color;
+
+    &:hover {
+      background-color: mix(#000, $danger-color, 20%);
+    }
   }
 }
 
@@ -37,3 +111,4 @@
   border: 0 solid transparent;
   color: $white;
 }
+
