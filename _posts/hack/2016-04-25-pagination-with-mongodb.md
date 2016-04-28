@@ -3,7 +3,7 @@ layout: post
 title: "Pagination with MongoDB"
 modified:
 categories: hack
-excerpt:
+excerpt: Control system for continued content
 tags: [mongodb, pagination, scalability]
 image:
   feature:
