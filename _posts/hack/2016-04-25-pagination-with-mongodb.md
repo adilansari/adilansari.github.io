@@ -18,6 +18,8 @@ I assume you are here becuase you realized the need for it, will keep this short
 
 I will discuss two ways to effectively paginate using MongoDB.
 
+---
+
 ## 1: Using cursor.skip() and cursor.limit()
 For if we want to limit `pagesize=10` comments per page, our data construct would look like:
 {% highlight javascript %}
@@ -42,6 +44,8 @@ This is native to MongoDB however, this approach has a __<font color="red">drawb
 
 > The cursor.skip() method is often expensive because it requires the server to walk from the beginning of the collection or index to get the offset or skip position before beginning to return results. As the offset (e.g. pageNumber above) increases, cursor.skip() will become slower and more CPU intensive. With larger collections, cursor.skip() may become IO bound.
 {: .notice--danger}
+
+---
 
 ## 2: Using natural ordering to skip data
 This approach uses the [ObjectId](https://docs.mongodb.org/manual/reference/method/ObjectId/){: .btn .btn--info}. A __12-byte__ ObjectId value is:
@@ -70,7 +74,6 @@ last_comment_id = ...
 
 If you are using a field other than **_id** for offset, make sure the field is indexed else the performance will suffer.
 {: .notice--warning}
-
 
 ---
 
