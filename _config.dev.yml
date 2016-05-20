@@ -7,14 +7,16 @@ logo: site-logo.png
 search: true
 #url: http://ansari.io
 
-# Comments
+# defaults
 comments: true
 share: true
+related: true
 
 # Jekyll configuration
 
 permalink: /:categories/:title/
 markdown: kramdown
+related_posts: true
 highlighter: pygments
 sass:
   sass_dir: _sass
