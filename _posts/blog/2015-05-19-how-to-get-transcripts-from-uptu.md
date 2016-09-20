@@ -24,7 +24,7 @@ Following is my experience from 2011, in my time it was UPTU so the following po
 
 #### Alternative (Stress on the flexibility):
 
-- I knew a guy, called him to arrange a visit to University. [They have streamlined the process you can now directly walk in](){: .btn .btn--warning .btn--small}
+- I knew a guy, called him to arrange a visit to University. *(They have streamlined the process you can now directly walk in.)*
 - He was a peon, who has got all the powers and can get anything done.
 - Obviously he will charge you some, but worth it, as the university fee is zilch as compared to others where you may pay like thousand for each transcript. Negotiate beforehand on call itself.
 - I would suggest download this [Transcript Format](/blog/uptu-transcript-format/){: .btn .btn--info}, fill in your subjects and marks, double cross check and carry it in a pen drive (_as a precaution free from malware, or just empty before loading_). Or create your own format.
