@@ -2,6 +2,7 @@
 
 Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes/) -- by designer slash illustrator [Michael Rose](http://mademistakes.com).
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ae3e480a67354f4489ddd88bce075179)](https://www.codacy.com/app/adil/adilansari-github-io?utm_source=github.com&utm_medium=referral&utm_content=adilansari/adilansari.github.io&utm_campaign=badger)
 [![Build Status](https://travis-ci.org/mmistakes/so-simple-theme.svg?branch=master)](https://travis-ci.org/mmistakes/so-simple-theme)
 
 ## So Simple Theme is all about:
