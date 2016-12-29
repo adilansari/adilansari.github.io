@@ -26,7 +26,7 @@ date: 2014-12-30T02:42:59-07:00
 
 ## Stonehenge (D2)
 - There are tons of private/bus tours to Stonehenge from London. Approximately [2 hour drive on M3], add the city traffic to it. A bus tour is about 8 hours.
-- I wanted to visit <a href="https://maps.google.com/maps?q=Windsor+Castle/+London" class="popup-gmaps">Windsor Castle</a>, [Castle Combe](https://sites.google.com/site/castlecombewiltshire/)(_Prettiest village in England_) too so decided to drive myself.
+- I wanted to visit <a href="https://maps.google.com/maps?q=Windsor+Castle+London" class="popup-gmaps">Windsor Castle</a>, [Castle Combe](https://sites.google.com/site/castlecombewiltshire/)(_Prettiest village in England_) too so decided to drive myself.
 - A diesel right hand drive for the first time in 3 years and in a new country but didn't took much to adopt it.
 - Left at 5.30 in morning to evade city traffic and was in Windsor by 7 am for a hot breakfast.
 - Castle Combe was a small but scintillating village.

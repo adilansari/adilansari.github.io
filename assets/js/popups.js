@@ -22,10 +22,7 @@ $(document).ready(function() {
   });
 });
 
-/*<a href="#" data-links="http://www.oxygenna.com/wp-content/uploads/2014/11/blog-2.jpg,http://www.oxygenna.com/wp-content/uploads/2014/11/blog-0.jpg,http://www.oxygenna.com/wp-content/uploads/2014/11/blog-1.jpg,http://www.oxygenna.com/wp-content/uploads/2014/11/blog-3.jpg" class="popup-gallery">
-  xyz
-</a>
-*/
+
 $(document).ready(function() {
   $('.popup-youtube, .popup-vimeo, .popup-gmaps').magnificPopup({
     disableOn: 700,
