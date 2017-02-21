@@ -4,7 +4,7 @@ title: Engineering Lab
 excerpt: "An archive of my horrific coding experiments sorted by date."
 search_omit: true
 image:
-    feature: so-simple-sample-image-1.jpg
+    feature: about/broken_computer.jpg
 ---
 
 <ul class="post-list">
