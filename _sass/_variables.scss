@@ -22,7 +22,7 @@ body {
 $body-color               : #fff;
 $text-color               : #222;
 $base-color               : #343434;
-$comp-color               : spin($base-color, 180);
+$comp-color               : adjust-hue($base-color, 180);
 $border-color             : #ddd;
 $white                    : #fff;
 $black                    : #000;
