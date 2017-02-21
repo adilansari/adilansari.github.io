@@ -4,4 +4,4 @@
 
 My personal Jekyll powered blog? Well look no further.
 
-Thanks to designer slash illustrator [Michael Rose](http://mademistakes.com) for his **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes/).
+Thanks to designer slash illustrator [Michael Rose](http://mademistakes.com) for his [**So Simple Theme**](https://mmistakes.github.io/so-simple-theme/), the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes/).
