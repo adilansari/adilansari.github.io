@@ -5,7 +5,6 @@ excerpt: "About Adil Ansari"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: so-simple-sample-image-1.jpg
-  credit: Myself
 ---
 
 I am a half engineered Indian and an online nobody based in beautiful San Francisco. Here you'll find code snippets, travel pictures, rants and other stuff. 
