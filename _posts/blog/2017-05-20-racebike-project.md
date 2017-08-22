@@ -3,7 +3,7 @@ layout: post
 title: Yamaha R6 race bike project
 modified:
 categories: blog
-excerpt: Converting already powerful R6 to a race bike
+excerpt: Building a race bike
 comments: false
 tags: [life, inspiration, bike]
 image:
