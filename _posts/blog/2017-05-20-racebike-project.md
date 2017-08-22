@@ -18,7 +18,7 @@ date: 2017-05-20T20:28:16-07:00
 </figure>
 <figcaption align="center"><strong>Before conversion, mostly stock</strong></figcaption>
 
-Bought myself a Yamaha R6 in June 2014. Streets/Highways were just not apt for this mean thing and started doing trackdays. The love for riding intensified and it was 2017 when I decided to convert this into a race track only bike.
+Bought myself a Yamaha R6 in June 2014. Streets/Highways were just not apt for this mean thing and started doing trackdays. The love for riding intensified and it was 2017 when I decided to convert this into a racetrack only bike.
 
 
 <figure class="third" align="center">
