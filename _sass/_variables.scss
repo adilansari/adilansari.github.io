@@ -31,6 +31,7 @@ $link-color               : #222;
 
 $gray                     : #7a8288;
 $light-gray               : mix(#fff, $gray, 50%);
+$lighter-gray             : mix(#fff, $gray, 75%);
 $success-color            : #62c462;
 $warning-color            : #f89406;
 $danger-color             : #ee5f5b;
@@ -39,10 +40,10 @@ $info-color               : #52adc8;
 $table-border-color       : $border-color;
 $table-border             : 1px solid $table-border-color;
 $table-background         : $body-color;
-$table-header-color       : lighten($table-background, 10);
-$table-hover-color        : darken($table-background, 2);
+$table-header-color       : darken($lighter-gray, 8);
 $table-stripe-color       : darken($table-background, 4);
-$table-stripe-color-hover : darken($table-stripe-color, 5);
+$table-hover-color        : darken($table-background, 6);
+$table-stripe-color-hover : darken($table-stripe-color, 6);
 
 
 // MEDIA QUERIES ==============================================
