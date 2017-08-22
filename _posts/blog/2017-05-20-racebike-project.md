@@ -48,7 +48,7 @@ Aftermarket stuff and ~~removed mods~~:
 | Driven racing front -1 sprocket | More power at lower rpms |
 | Driven racing rear +1 sprocket | For the pull coming off corners |
 | Armourbodies race fairings | Easy to take on and off fibreglass body |
-| Catalytic converter removed | No more emission sensors, unrestricted exhaust flow |
+| Catalytic converter delete | No more emission sensors, unrestricted exhaust flow |
 | K&N air filter | Breathe healthy |
 | Moto D racing clip ons | Adjustable handlebars for wider arm position |
 | GPR V4 steering dampner | Stabilized steering, less tank slapping |
