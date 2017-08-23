@@ -8,7 +8,7 @@ comments: false
 tags: [life, inspiration, bike]
 image:
   feature: blog/feature_race_bike.jpg
-date: 2017-05-20T20:28:16-07:00
+date: 2017-08-22T20:28:16-07:00
 ---
 
 <figure class="third" align="center">
