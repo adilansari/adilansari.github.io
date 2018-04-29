@@ -22,7 +22,7 @@ Bought myself a Yamaha R6 in June 2014. Streets/Highways were just not apt for t
 
 
 <figure class="third" align="center">
-  <a href="https://farm1.staticflickr.com/868/26902976447_3272e81347_b.jpg" title=""><img src="https://farm1.staticflickr.com/868/26902976447_3272e81347_m.jpg"></a>
+	<a href="https://farm1.staticflickr.com/868/26902976447_3272e81347_b.jpg" title=""><img src="https://farm1.staticflickr.com/868/26902976447_3272e81347_m.jpg"></a>
 	<a href="https://farm5.staticflickr.com/4427/35920026463_a446ab03e3_b.jpg" title=""><img src="https://farm5.staticflickr.com/4427/35920026463_a446ab03e3_m.jpg"></a>
 	<a href="https://farm5.staticflickr.com/4353/36682645276_07bfc34112_b.jpg" title=""><img src="https://farm5.staticflickr.com/4353/36682645276_07bfc34112_m.jpg"></a>
 </figure>
