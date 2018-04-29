@@ -22,7 +22,7 @@ Bought myself a Yamaha R6 in June 2014. Streets/Highways were just not apt for t
 
 
 <figure class="third" align="center">
-	<a href="https://farm5.staticflickr.com/4357/36559424912_cd93642d49_b.jpg" title=""><img src="https://farm5.staticflickr.com/4357/36559424912_cd93642d49_m.jpg"></a>
+  <a href="https://farm1.staticflickr.com/868/26902976447_3272e81347_b.jpg" title=""><img src="https://farm1.staticflickr.com/868/26902976447_3272e81347_m.jpg"></a>
 	<a href="https://farm5.staticflickr.com/4427/35920026463_a446ab03e3_b.jpg" title=""><img src="https://farm5.staticflickr.com/4427/35920026463_a446ab03e3_m.jpg"></a>
 	<a href="https://farm5.staticflickr.com/4353/36682645276_07bfc34112_b.jpg" title=""><img src="https://farm5.staticflickr.com/4353/36682645276_07bfc34112_m.jpg"></a>
 </figure>
@@ -38,11 +38,11 @@ Aftermarket stuff and ~~removed mods~~:
 | Driven racing grips | Stocks were supposed to be thrown I guess |
 | ~~Tail lamp with integrated turn sigs~~ | Because LED and clean |
 | SC-project CRT exhaust | Expel exhaust gases faster |
-| Pirelli Diablo Rosso Corsas | For handling them low corners |
+| Pirelli Diablo Supercorsas | For handling them low corners |
 | CRG brake and clutch levers | CNC clicker levers |
 | Zero Gravity Corsa race windscreen | Aerodynamics |
 | GB racing casing for engine | Gotta protect it |
-| Bauce racing ECU remap | Removed factory restrictions to set it up for racetracks |
+| Bauce racing ECU remap | Removed factory restrictions to set it up for racetrack |
 | Power commander V | Controller for fuel injectors, smoother power delivery |
 | DID racing 520 chain | Lighter, less friction, spins faster |
 | Driven racing front -1 sprocket | More power at lower rpms |
@@ -54,6 +54,9 @@ Aftermarket stuff and ~~removed mods~~:
 | GPR V4 steering dampner | Stabilized steering, less tank slapping |
 | Motion Pro throttle asembly | Much more aggressive throttle response |
 | Ohlins fork springs | Stiffer forks dialed in for my weight |
-| Eibach racing rear shock | Lighter rear suspension spring for stability |
+| Eibach racing rear shock | Lighter rear spring for instant feedback |
 | Tech3 Yamaha livery | Why not? |
+| EBC GP racing brake pads | High friction stoppers |
+| MotoD GPS data logger | Lap by lap bike and rider timing data |
+| Galfer steel brake lines| Increased brake fluid pressure |
 {: .table }
