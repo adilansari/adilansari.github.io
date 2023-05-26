@@ -3,3 +3,4 @@ _site/
 Gemfile.lock
 *.sublime*
 env/
+.idea/
