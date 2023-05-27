@@ -1,12 +1,7 @@
-source 'https://rubygems.org'
-
-gem 'jekyll'
-gem 'jekyll-sitemap'
-gem 'jemoji'
-gem 'octopress', '~> 3.0.0.rc.12'
-gem 'pygments.rb'
-gem 'rouge'
-gem 'classifier-reborn'
+source "https://rubygems.org"
+gem jemoji
+gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do
-  gem 'octopress-debugger'
+  gem "jekyll-paginate"
 end
+gemspec

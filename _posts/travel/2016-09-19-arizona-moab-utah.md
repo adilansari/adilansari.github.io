@@ -17,7 +17,7 @@ A normal weekend trip that was supposed to head Westwards towards California fro
     height="350"
     frameborder="0" style="border:0"
     name="Arizona-Utah"
-    src="https://www.google.com/maps/embed/v1/directions?origin=Phoenix,Arizona&destination=Phoenix,Arizona&waypoints=36.83584,-111.5279404|Monument+Valley,Utah|Arches+National+Park,Utah&key={{ site.owner.google-maps }}" allowfullscreen>
+    src="https://www.google.com/maps/embed/v1/directions?origin=Phoenix,Arizona&destination=Phoenix,Arizona&waypoints=36.83584,-111.5279404|Monument+Valley,Utah|Arches+National+Park,Utah&key={{ site.extras.google-maps }}" allowfullscreen>
 </iframe>
 
 

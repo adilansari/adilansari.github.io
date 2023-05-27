@@ -17,10 +17,10 @@ date: 2014-10-06T05:12:51-07:00
 
 
 - Started early friday evening and spent night in Ridgecrest, a small town in desert.
-- <a href="https://www.google.com/maps/embed/v1/directions?origin=San+Francisco,+California&destination=Ridgecrest,+California&key={{ site.owner.google-maps}}" class="popup-gmaps">Map: SF to Ridgecrest</a>
+- <a href="https://www.google.com/maps/embed/v1/directions?origin=San+Francisco,+California&destination=Ridgecrest,+California&key={{ site.extras.google-maps}}" class="popup-gmaps">Map: SF to Ridgecrest</a>
 
 ## Entering death valley
-- <a href="https://www.google.com/maps/embed/v1/directions?origin=Ridgecrest,+CA&destination=Stovepipe+Wells,+CA&key={{ site.owner.google-maps}}" class="popup-gmaps">Map: Ridgecrest to Death Valley Visitor Centre</a>
+- <a href="https://www.google.com/maps/embed/v1/directions?origin=Ridgecrest,+CA&destination=Stovepipe+Wells,+CA&key={{ site.extras.google-maps}}" class="popup-gmaps">Map: Ridgecrest to Death Valley Visitor Centre</a>
 - Big mines on the way. Clear skies and flat grounds greeted us.
 - Broken/unpaved roads, Everyone was little scared the way we were heading.
 - Entered via CA-190 freeway, this is the largest national park in US south of Alaska.
