@@ -21,7 +21,7 @@ title: "Adil Ansari"
 description: "My blackbook"
 copyright: "My blackbook, powered by Jekyll & So Simple"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: http://ansari.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://ansari.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: images/site-logo.png # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: false # reading time estimates, e.g. true
