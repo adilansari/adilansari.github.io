@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yamaha R6 race bike project
-modified:
+last_modified_at:
 categories: blog
 excerpt: Building a race bike
 comments: false

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Better Api Design in 4 minutes"
-modified:
+last_modified_at:
 categories: hack
 excerpt: General notes and suggestions for a scalable and reliable api.
 tags: [api, design, rest]
@@ -9,10 +9,7 @@ image:
 date: 2015-07-26T23:25:02-07:00
 ---
 
-* Table of contents
-{:toc}
-
----
+{% include toc %}
 
 {% highlight text %}
 Why API? - An asset, consumers buy and learn it.

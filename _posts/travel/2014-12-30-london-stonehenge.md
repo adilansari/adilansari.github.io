@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2014 Christmas in London"
-modified:
+last_modified_at:
 categories: travel
 excerpt: A visit to Arsenal
 tags: [arsenal, trip, europe, photography]

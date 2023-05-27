@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Japan"
-modified:
+last_modified_at:
 categories: travel
 excerpt: Japan - A vibrant experience.
 tags: [japan, trip, asia, photography]

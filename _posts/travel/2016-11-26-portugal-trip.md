@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Portugal"
-modified:
+last_modified_at:
 categories: travel
 excerpt: A rhythmic journey
 tags: [portugal, trip, europe, photography]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello World"
-modified:
+last_modified_at:
 categories: blog
 excerpt: It all starts here.
 tags: []

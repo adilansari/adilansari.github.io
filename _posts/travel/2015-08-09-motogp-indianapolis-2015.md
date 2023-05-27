@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MotoGP Indianapolis 2015"
-modified:
+last_modified_at:
 categories: travel
 excerpt: A VIP experience in MotoGP paddocks.
 tags: [bikes, racing, trip]

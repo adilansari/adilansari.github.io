@@ -1,7 +1,7 @@
 ---
 layout: post
 title: UPTU or GBTU or AKTU transcript format
-modified:
+last_modified_at:
 categories: blog
 excerpt: Uttar Pradesh Technical University transcript format
 comments: false

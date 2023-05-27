@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pagination with MongoDB"
-modified:
+last_modified_at:
 categories: hack
 excerpt: Paginating scalable data with MongoDB.
 tags: [mongodb, pagination, scalability]
@@ -9,8 +9,7 @@ image:
 date: 2016-04-25T17:56:10-07:00
 ---
 
-* Table of contents
-{:toc}
+{% include toc %}
 
 ## What is?
 I assume you are here becuase you realized the need for it, will keep this short. Pagination is a type of user control that lets user browse a large number of database rows in the form of pages.
@@ -19,7 +18,7 @@ I will discuss two ways to effectively paginate using MongoDB.
 
 ---
 
-## 1: Using cursor.skip() and cursor.limit()
+## Using cursor.skip() and cursor.limit()
 For if we want to limit `pagesize=10` comments per page, our data construct would look like:
 {% highlight javascript %}
 {% raw %}
@@ -46,7 +45,7 @@ This is native to MongoDB however, this approach has a __<font color="red">drawb
 
 ---
 
-## 2: Using natural ordering to skip data
+## Using natural ordering to skip data
 This approach uses the [ObjectId](https://docs.mongodb.org/manual/reference/method/ObjectId/){: .btn .btn--info}. A __12-byte__ ObjectId value is:
 {% raw %}
 - 4-byte representing the seconds since the Unix epoch,

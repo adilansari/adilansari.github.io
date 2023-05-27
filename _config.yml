@@ -15,10 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 #theme: jekyll-theme-so-simple
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
-skin: "/assets/css/skins/default.css"
+skin: "/assets/css/skins/dark.css"
 locale: en-US
 title: "Adil Ansari"
 description: "My blackbook"
+copyright: "My blackbook, powered by Jekyll & So Simple"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: http://ansari.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: images/site-logo.png # path of site logo, e.g. "/images/logo.png"
@@ -58,8 +59,8 @@ paginate_path: /page:num/
 search_full_content: false # can have performance implications for large sites
 
 # Taxonomy pages
-# category_archive_path: "/categories/#"
-# tag_archive_path: "/tags/#"
+#category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -100,12 +101,21 @@ author:
     - title: github
       url: https://github.com/adilansari
       icon: fab fa-github
-    - title: github
+    - title: linkedin
       url: https://linkedin.com/in/adilansari
       icon: fab fa-linkedin
 
 # Footer Links
 footer_links:
+  - title: Twitter
+    url: https://twitter.com/adilansari
+    icon: fab fa-twitter-square
+  - title: github
+    url: https://github.com/adilansari
+    icon: fab fa-github
+  - title: linkedin
+    url: https://linkedin.com/in/adilansari
+    icon: fab fa-linkedin
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Arizona and Utah"
-modified:
+last_modified_at:
 categories: travel
 excerpt: A rhythmic journey
 tags: [usa, trip, nature, park photography]

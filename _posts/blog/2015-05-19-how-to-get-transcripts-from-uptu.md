@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to get transcripts from UPTU aka GBTU aka AKTU?
-modified:
+last_modified_at:
 categories: blog
 excerpt: Transcripts from Uttar Pradesh Technical University
 tags: [uptu, usa, ms, transcripts, university, marksheet, btech, gbtu, aktu]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Renting a motorcycle abroad
-modified:
+last_modified_at:
 categories: travel
 excerpt: Handy tips for renting or transporting your bike across.
 tags: [riding, adventure, bike, motorcycling]

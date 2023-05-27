@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Crater Lake and South Oregon
-modified:
+last_modified_at:
 categories: travel
 excerpt: Exploring South Oregon
 tags: [lake, crater, oregon, usa, california]
