@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "2014 Christmas in London"
-modified:
+last_modified_at:
 categories: travel
 excerpt: A visit to Arsenal
 tags: [arsenal, trip, europe, photography]
-image:
-  feature: travel/tower_bridge.jpg
+image: /images/travel/tower_bridge.jpg
 date: 2014-12-30T02:42:59-07:00
 ---
 
@@ -30,7 +29,7 @@ date: 2014-12-30T02:42:59-07:00
 - Left at 5.30 in morning to evade city traffic and was in Windsor by 7 am for a hot breakfast.
 - Castle Combe was a small but scintillating village.
 - Took countryside route on the way to Stonehenge and my eyes were vitalized by the charm Britain has to offer besides the Victorian cities.
-- <a href="https://www.google.com/maps/embed/v1/directions?origin=London,+United+Kingdom&destination=Castle+Combe,+United+Kingdom&key={{ site.owner.google-maps}}" class="popup-gmaps">Drove about 400 kms</a>, gripped with fever by evening. Took a few coffee breaks to keep up with myself on the way back.
+- <a href="https://www.google.com/maps/embed/v1/directions?origin=London,+United+Kingdom&destination=Castle+Combe,+United+Kingdom&key={{ site.extras.google-maps}}" class="popup-gmaps">Drove about 400 kms</a>, gripped with fever by evening. Took a few coffee breaks to keep up with myself on the way back.
 - Back by night had my usual Lamb shawarma.
 - Ran an errand to a pharmacy at 3 in morning, it was getting unbearable. Next two days I survived on antibiotics.
 

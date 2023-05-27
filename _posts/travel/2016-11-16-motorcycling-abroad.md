@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Renting a motorcycle abroad
-modified:
+last_modified_at:
 categories: travel
 excerpt: Handy tips for renting or transporting your bike across.
 tags: [riding, adventure, bike, motorcycling]
-image:
-  feature: travel/feature_renting_motorcycle.jpg
+image: /images/travel/feature_renting_motorcycle.jpg
 date: 2016-11-16T15:28:01-07:00
 ---
 
@@ -46,12 +45,12 @@ I was in [Lisbon, Portugal](https://en.wikipedia.org/wiki/Lisbon){: .btn .btn--s
     <a href="https://farm1.staticflickr.com/546/31892084426_20aff0985d_b.jpg" title=""><img src="https://farm1.staticflickr.com/546/31892084426_20aff0985d_m.jpg"></a>
 </figure>
 
-Of course I missed the grunt and power in this adventure bike but was so smooth. He gave me a good briefing of the routes and rules, helped me find a safe parking place near hotel. That small meeting ended up in a friendship. I did about 800 kilometres <a href="https://www.google.com/maps/embed/v1/directions?origin=Lisbon,Portugal&destination=Lisbon,Portugal&waypoints=Coimbra,Portugal|Porto,Portugal|Sintra,Portugal&key={{ site.owner.google-maps }}" class="popup-gmaps">(Lisbon-Coimbra-Porto-Sintra)</a>, absolutely no issues with the bike. I won't say renting from them is cheap but definitely not expensive for what you are getting. Highly recommended :+1:.
+Of course I missed the grunt and power in this adventure bike but was so smooth. He gave me a good briefing of the routes and rules, helped me find a safe parking place near hotel. That small meeting ended up in a friendship. I did about 800 kilometres <a href="https://www.google.com/maps/embed/v1/directions?origin=Lisbon,Portugal&destination=Lisbon,Portugal&waypoints=Coimbra,Portugal|Porto,Portugal|Sintra,Portugal&key={{ site.extras.google-maps }}" class="popup-gmaps">(Lisbon-Coimbra-Porto-Sintra)</a>, absolutely no issues with the bike. I won't say renting from them is cheap but definitely not expensive for what you are getting. Highly recommended :+1:.
 
 <iframe
   width="100%"
   height="350"
   frameborder="0" style="border:0"
   name="Lisbon-Coimbra-Porto-Sintra-Lisbon"
-  src="https://www.google.com/maps/embed/v1/directions?origin=Lisbon,Portugal&destination=Lisbon,Portugal&waypoints=Coimbra,Portugal|Porto,Portugal|Sintra,Portugal&key={{ site.owner.google-maps }}" allowfullscreen>
+  src="https://www.google.com/maps/embed/v1/directions?origin=Lisbon,Portugal&destination=Lisbon,Portugal&waypoints=Coimbra,Portugal|Porto,Portugal|Sintra,Portugal&key={{ site.extras.google-maps }}" allowfullscreen>
 </iframe>

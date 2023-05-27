@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Your life is like a balloon
-modified:
+last_modified_at:
 categories: blog
 excerpt: Gotta unhook those anchors to rise high
 comments: false
 tags: [life, inspiration, stoicism]
 image:
-  feature:
 date: 2017-02-20T20:28:16-07:00
 ---
 

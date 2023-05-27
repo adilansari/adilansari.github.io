@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Arizona and Utah"
-modified:
+last_modified_at:
 categories: travel
 excerpt: A rhythmic journey
 tags: [usa, trip, nature, park photography]
-image:
-    feature: travel/feature_arizona_moab_utah.jpg
+image: /images/travel/feature_arizona_moab_utah.jpg
 date: 2016-09-19T02:42:59-07:00
 ---
 
@@ -17,7 +16,7 @@ A normal weekend trip that was supposed to head Westwards towards California fro
     height="350"
     frameborder="0" style="border:0"
     name="Arizona-Utah"
-    src="https://www.google.com/maps/embed/v1/directions?origin=Phoenix,Arizona&destination=Phoenix,Arizona&waypoints=36.83584,-111.5279404|Monument+Valley,Utah|Arches+National+Park,Utah&key={{ site.owner.google-maps }}" allowfullscreen>
+    src="https://www.google.com/maps/embed/v1/directions?origin=Phoenix,Arizona&destination=Phoenix,Arizona&waypoints=36.83584,-111.5279404|Monument+Valley,Utah|Arches+National+Park,Utah&key={{ site.extras.google-maps }}" allowfullscreen>
 </iframe>
 
 

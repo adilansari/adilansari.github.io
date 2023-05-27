@@ -1,13 +1,12 @@
 ---
 layout: post
 title: UPTU or GBTU or AKTU transcript format
-modified:
+last_modified_at:
 categories: blog
 excerpt: Uttar Pradesh Technical University transcript format
 comments: false
 tags: [uptu, usa, ms, transcripts, university, marksheet, btech, gbtu, aktu]
 image:
-  feature:
 date: 2015-05-19T20:28:16-07:00
 link: https://drive.google.com/open?id=1oyNLPnxy53wAaKGbJpraON3MuLhsmjdeyHJswWp46SjDplDqeK5CDm3xZGPY
 ---

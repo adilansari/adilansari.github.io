@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "Python Scribe Logger"
-modified:
+last_modified_at:
 categories: hack
 excerpt: Lightweight scribe logging client for python
 tags: [python, open-source, api]
 image:
-  feature:
 date: 2015-09-10T00:10:34-07:00
 ---
 
@@ -19,8 +18,7 @@ Status](https://coveralls.io/repos/adilansari/python-scribe-logger/badge.svg?bra
 [![License](https://img.shields.io/github/license/adilansari/python-scribe-logger.svg)](https://github.com/adilansari/python-scribe-logger/blob/master/LICENSE.mkd)
 [![Downloads](https://img.shields.io/pypi/dm/scribe_logger.svg)](https://pypi.python.org/pypi/scribe_logger/)
 
-* Table of contents
-{:toc}
+{% include toc %}
 
 ## Scribe logger
 

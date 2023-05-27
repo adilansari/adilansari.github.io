@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Yamaha R6 race bike project
-modified:
+last_modified_at:
 categories: blog
 excerpt: Building a race bike
 comments: false
 tags: [life, inspiration, bike]
-image:
-  feature: blog/feature_race_bike.jpg
+image: /images/blog/feature_race_bike.jpg
 date: 2017-08-22T20:28:16-07:00
 ---
 
@@ -32,31 +31,31 @@ Bought myself a Yamaha R6 in June 2014. Streets/Highways were just not apt for t
 
 Aftermarket stuff and ~~removed mods~~:
 
-| Part | Slurp |
-| ----- | ----- |
-| ~~Tail eliminator~~ | Clean tail |
-| Driven racing grips | Stocks were supposed to be thrown I guess |
-| ~~Tail lamp with integrated turn sigs~~ | Because LED and clean |
-| SC-project CRT exhaust | Expel exhaust gases faster |
-| Pirelli Diablo Supercorsas | For handling them low corners |
-| CRG brake and clutch levers | CNC clicker levers |
-| Zero Gravity Corsa race windscreen | Aerodynamics |
-| GB racing casing for engine | Gotta protect it |
-| Bauce racing ECU remap | Removed factory restrictions to set it up for racetrack |
-| Power commander V | Controller for fuel injectors, smoother power delivery |
-| DID racing 520 chain | Lighter, less friction, spins faster |
-| Driven racing front -1 sprocket | More power at lower rpms |
-| Driven racing rear +1 sprocket | For the pull coming off corners |
-| Armourbodies race fairings | Easy to take on and off fibreglass body |
-| Catalytic converter delete | No more emission sensors, unrestricted exhaust flow |
-| K&N air filter | Breathe healthy |
-| Moto D racing clip ons | Adjustable handlebars for wider arm position |
-| GPR V4 steering dampner | Stabilized steering, less tank slapping |
-| Motion Pro throttle asembly | Much more aggressive throttle response |
-| Ohlins fork springs | Stiffer forks dialed in for my weight |
-| Eibach racing rear shock | Lighter rear spring for instant feedback |
-| Tech3 Yamaha livery | Why not? |
-| EBC GP racing brake pads | High friction stoppers |
-| MotoD GPS data logger | Lap by lap bike and rider timing data |
-| Galfer steel brake lines| Increased brake fluid pressure |
+| Part                                    | Slurp                                                   |
+|-----------------------------------------|---------------------------------------------------------|
+| ~~Tail eliminator~~                     | Clean tail                                              |
+| Driven racing grips                     | Stocks were supposed to be thrown I guess               |
+| ~~Tail lamp with integrated turn sigs~~ | Because LED and clean                                   |
+| SC-project CRT exhaust                  | Expel exhaust gases faster                              |
+| Pirelli Diablo Supercorsas              | For handling them low corners                           |
+| CRG brake and clutch levers             | CNC clicker levers                                      |
+| Zero Gravity Corsa race windscreen      | Aerodynamics                                            |
+| GB racing casing for engine             | Gotta protect it                                        |
+| Bauce racing ECU remap                  | Removed factory restrictions to set it up for racetrack |
+| Power commander V                       | Controller for fuel injectors, smoother power delivery  |
+| DID racing 520 chain                    | Lighter, less friction, spins faster                    |
+| Driven racing front -1 sprocket         | More power at lower rpms                                |
+| Driven racing rear +1 sprocket          | For the pull coming off corners                         |
+| Armourbodies race fairings              | Easy to take on and off fibreglass body                 |
+| Catalytic converter delete              | No more emission sensors, unrestricted exhaust flow     |
+| K&N air filter                          | Breathe healthy                                         |
+| Moto D racing clip ons                  | Adjustable handlebars for wider arm position            |
+| GPR V4 steering dampner                 | Stabilized steering, less tank slapping                 |
+| Motion Pro throttle asembly             | Much more aggressive throttle response                  |
+| Ohlins fork springs                     | Stiffer forks dialed in for my weight                   |
+| Eibach racing rear shock                | Lighter rear spring for instant feedback                |
+| Tech3 Yamaha livery                     | Why not?                                                |
+| EBC GP racing brake pads                | High friction stoppers                                  |
+| MotoD GPS data logger                   | Lap by lap bike and rider timing data                   |
+| Galfer steel brake lines                | Increased brake fluid pressure                          |
 {: .table }
