@@ -5,8 +5,7 @@ modified:
 categories: travel
 excerpt: Handy tips for renting or transporting your bike across.
 tags: [riding, adventure, bike, motorcycling]
-image:
-  feature: travel/feature_renting_motorcycle.jpg
+image: /images/travel/feature_renting_motorcycle.jpg
 date: 2016-11-16T15:28:01-07:00
 ---
 

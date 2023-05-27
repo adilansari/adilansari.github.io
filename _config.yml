@@ -21,9 +21,9 @@ title: "Adil Ansari"
 description: "My blackbook"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: http://ansari.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: site-logo.png # path of site logo, e.g. "/images/logo.png"
+logo: images/site-logo.png # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
-read_time: true # reading time estimates, e.g. true
+read_time: false # reading time estimates, e.g. true
 words_per_minute: 200 # 200
 mathjax:
   enable: # MathJax equations, e.g. true, false (default)
@@ -93,7 +93,7 @@ defaults:
 # Site Author
 author:
   name: Adil Ansari
-  picture: bio-photo.jpg
+  picture: /images/bio-photo.jpg
   email: me@adilansari.com
   twitter: adilansari
   links:

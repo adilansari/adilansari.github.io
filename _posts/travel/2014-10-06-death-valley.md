@@ -4,9 +4,7 @@ title: "Death Valley"
 categories: travel
 excerpt: Lowest, driest, and hottest area in North America.
 tags: [trip, nature, park, photography]
-image:
-  feature: travel/death_valley.jpg
-  credit: Myself
+image: /images/travel/death_valley.jpg
 date: 2014-10-06T05:12:51-07:00
 ---
 

@@ -5,8 +5,7 @@ modified:
 categories: travel
 excerpt: A rhythmic journey
 tags: [usa, trip, nature, park photography]
-image:
-    feature: travel/feature_arizona_moab_utah.jpg
+image: /images/travel/feature_arizona_moab_utah.jpg
 date: 2016-09-19T02:42:59-07:00
 ---
 

@@ -6,7 +6,6 @@ categories: hack
 excerpt: Lightweight scribe logging client for python
 tags: [python, open-source, api]
 image:
-  feature:
 date: 2015-09-10T00:10:34-07:00
 ---
 

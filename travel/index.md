@@ -3,9 +3,7 @@ layout: page
 title: Travel Posts
 excerpt: "My travel log sorted by date."
 search_omit: true
-image:
-  feature: travel/loafers_airport.jpg
-  credit: Myself
+image: /images/travel/loafers_airport.jpg
 ---
 
 <ul class="post-list">

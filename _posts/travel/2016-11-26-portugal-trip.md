@@ -5,8 +5,7 @@ modified:
 categories: travel
 excerpt: A rhythmic journey
 tags: [portugal, trip, europe, photography]
-image:
-    feature: travel/feature_portugal.jpg
+image: /images/travel/feature_portugal.jpg
 date: 2016-11-26T02:42:59-07:00
 ---
 

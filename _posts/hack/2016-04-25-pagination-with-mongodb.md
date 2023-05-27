@@ -6,7 +6,6 @@ categories: hack
 excerpt: Paginating scalable data with MongoDB.
 tags: [mongodb, pagination, scalability]
 image:
-  feature:
 date: 2016-04-25T17:56:10-07:00
 ---
 
