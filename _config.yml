@@ -91,6 +91,22 @@ defaults:
       layout: post
       share: true
 
+# compose defaults
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      description:
+      image:
+      category:
+      tags:
+    posts:
+      description:
+      image:
+      category:
+      tags:
+      published: false
+      sitemap: false
+
 # Site Author
 author:
   name: Adil Ansari
