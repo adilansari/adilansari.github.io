@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
+gem "nokogiri"
 gem "jemoji"
 gem "webrick", "~> 1.8"
 
