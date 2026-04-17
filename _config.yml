@@ -79,6 +79,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-gist
+  - jekyll-remote-theme
+  - jekyll-include-cache
   - jemoji
 
 # Front Matter Defaults
@@ -137,4 +140,4 @@ footer_links:
     icon: fas fa-rss-square
 
 extras:
-  google-maps: AIzaSyBsp9oYHe38DmRbGTPlYut6eGTb7S51p1I
+  google-maps: AIzaSyBMXCGJ0v88uCZmZVUmJYe6GB5FfofeJuo
