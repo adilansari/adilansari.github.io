@@ -51,6 +51,12 @@ markdown: kramdown
 feed:
   path: atom.xml
 
+# Silence Sass deprecations from the remote theme's legacy SCSS (unmaintained since 2019).
+# `silence_deprecations` requires jekyll-sass-converter 3.1+, which jekyll-remote-theme
+# 0.4.3's gemspec forbids (<= 3.0.0), so quiet_deps alone is what we can use here.
+sass:
+  quiet_deps: true
+
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
 paginate_path: /page:num/
@@ -79,6 +85,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-gist
+  - jekyll-remote-theme
+  - jekyll-include-cache
   - jemoji
 
 # Front Matter Defaults
@@ -137,4 +146,4 @@ footer_links:
     icon: fas fa-rss-square
 
 extras:
-  google-maps: AIzaSyBsp9oYHe38DmRbGTPlYut6eGTb7S51p1I
+  google-maps: AIzaSyBMXCGJ0v88uCZmZVUmJYe6GB5FfofeJuo
