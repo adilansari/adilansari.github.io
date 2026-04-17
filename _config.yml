@@ -51,17 +51,11 @@ markdown: kramdown
 feed:
   path: atom.xml
 
-# Silence deprecations originating in the remote theme's legacy SCSS.
-# so-simple-theme hasn't been updated since 2019 and uses pre-Dart-Sass-2 syntax.
+# Silence Sass deprecations from the remote theme's legacy SCSS (unmaintained since 2019).
+# `silence_deprecations` requires jekyll-sass-converter 3.1+, which jekyll-remote-theme
+# 0.4.3's gemspec forbids (<= 3.0.0), so quiet_deps alone is what we can use here.
 sass:
   quiet_deps: true
-  silence_deprecations:
-    - import
-    - color-functions
-    - slash-div
-    - global-builtin
-    - strict-unary
-    - if-function
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
