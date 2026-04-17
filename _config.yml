@@ -51,6 +51,18 @@ markdown: kramdown
 feed:
   path: atom.xml
 
+# Silence deprecations originating in the remote theme's legacy SCSS.
+# so-simple-theme hasn't been updated since 2019 and uses pre-Dart-Sass-2 syntax.
+sass:
+  quiet_deps: true
+  silence_deprecations:
+    - import
+    - color-functions
+    - slash-div
+    - global-builtin
+    - strict-unary
+    - if-function
+
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
 paginate_path: /page:num/
