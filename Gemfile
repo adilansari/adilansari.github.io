@@ -12,6 +12,9 @@ gem "logger"
 gem "nokogiri", "~> 1.18"
 gem "webrick", "~> 1.8"
 
+# 3.1.0 added `silence_deprecations`; we need it for the so-simple-theme SCSS.
+gem "jekyll-sass-converter", "~> 3.1"
+
 group :jekyll_plugins do
   gem "jekyll-feed",          "~> 0.17"
   gem "jekyll-seo-tag",       "~> 2.8"
