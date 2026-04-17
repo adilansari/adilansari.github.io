@@ -30,6 +30,12 @@ jobs:
       - uses: actions/configure-pages@v5
         id: pages
 
+      - name: Inject Google Maps API key
+        env:
+          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
+        run: |
+          sed -i "s|^  google-maps:.*|  google-maps: ${GOOGLE_MAPS_API_KEY}|" _config.yml
+
       - name: Build with Jekyll
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
